@@ -28,7 +28,7 @@
     "bn.js": "^4.11.8",
     "deep-freeze": "^0.0.1",
     "invariant": "^2.2.4",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "prettier": "^1.14.3",
     "ts-essentials": "^1.0.0",
     "tslint": "^5.11.0",
